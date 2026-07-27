@@ -1,12 +1,12 @@
-# 🗄️ SQL JOIN LeetCode Problems
+# 🗄️ SQL LeetCode Problems
 
-This repository contains my SQL JOIN problem solutions from LeetCode.
+This repository contains my SQL problem solutions from LeetCode.
 
 I am using this repository to practice and improve my SQL skills, understand relational databases, and learn how to combine data from multiple tables using different types of JOINs.
 
-## 📚 SQL JOIN LeetCode Problems
+## 📚 SQL LeetCode Problems
 
-This repository includes SQL JOIN problems ranging from basic to advanced levels, covering different types of JOINs, multiple-table queries, filtering, grouping, sorting, and aggregate functions.
+This repository includes SQL problems ranging from basic to advanced levels, covering different types of JOINs, multiple-table queries, filtering, grouping, sorting, and aggregate functions.
 
 ## 📂 Repository Structure
 
