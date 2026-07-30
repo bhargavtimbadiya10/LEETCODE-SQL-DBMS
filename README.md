@@ -24,5 +24,6 @@ Each SQL problem contains:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0620-not-boring-movies](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/0620-not-boring-movies/) | Easy |
 | [1934-confirmation-rate](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
