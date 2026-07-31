@@ -25,6 +25,7 @@ Each SQL problem contains:
 | ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0620-not-boring-movies](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/0620-not-boring-movies/) | Easy |
+| [1075-project-employees-i](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/1075-project-employees-i/) | Easy |
 | [1251-average-selling-price](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/1251-average-selling-price/) | Easy |
 | [1934-confirmation-rate](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
