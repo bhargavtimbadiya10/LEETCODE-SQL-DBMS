@@ -26,6 +26,7 @@ Each SQL problem contains:
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0620-not-boring-movies](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/1075-project-employees-i/) | Easy |
+| [1193-monthly-transactions-i](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/1251-average-selling-price/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/bhargavtimbadiya10/LEETCODE-SQL-DBMS/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
